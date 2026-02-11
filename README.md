@@ -1,4 +1,4 @@
-# KSNtelegabeta v1.0 🔥
+# KSNtelega 🔥
 
 **Идеальный запрет для Telegram + Discord + YouTube**
 
